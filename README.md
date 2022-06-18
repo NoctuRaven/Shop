@@ -9,6 +9,8 @@ Project built with Dart and flutter. Using provider as state manager and MVC as 
 ## Features
 
 ° account registration (CRUD)
+
 ° Shopping cart
+
 ° Backend with firebase
 
