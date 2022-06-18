@@ -14,3 +14,5 @@ Project built with Dart and flutter. Using provider as state manager and MVC as 
 
 ° Backend with firebase
 
+° API REST
+
