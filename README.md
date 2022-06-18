@@ -2,7 +2,7 @@
 
 [Layout](https://github.com/NoctuRaven/Shop/blob/main/assets/fonts/images/loja.png)
 
-## About this project
+## About this project (Under development)
 
 Project built with Dart and flutter. Using provider as state manager and MVC as design pattern.
 
